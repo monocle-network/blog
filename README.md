@@ -1,6 +1,6 @@
 ## Blog
 
-The [Monocle Network blog](https://monocle.mataroa.blog/) uses [Mataroa](https://mataroa.blog) a privacy focused minimalist blog for content management.
+The [Monocle Network blog](https://monocle.blog) uses [Mataroa](https://mataroa.blog) a privacy focused minimalist blog for content management.
 
 ## Features
 
