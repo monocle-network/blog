@@ -6,6 +6,10 @@
 
 The [Monocle Network blog](https://monocle.blog) uses [Mataroa](https://mataroa.blog) a privacy focused minimalist blog for content management.
 
+## Status
+
+[![Phare badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fstatus.monoclenetwork.org%2Fshield-badges%2Favailability.json&style=for-the-badge)](https://status.monoclenetwork.org)
+
 ## Features
 
 - Never ads. Zero tracking
