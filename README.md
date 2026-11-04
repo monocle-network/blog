@@ -4,6 +4,8 @@
 
 <br>
 
+# Blog
+
 The [Monocle Network blog](https://monocle.blog) uses [Mataroa](https://mataroa.blog) a privacy focused minimalist blog for content management.
 
 ## Status
