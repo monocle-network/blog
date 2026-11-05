@@ -1,7 +1,13 @@
+<br>
+<br>
+<br>
+
 <div align="center">
   <img src="https://github.com/monocle-network/design/blob/main/assets/blog/m-blog-logo.png?raw=true" alt="Monocle Blog logo">
 </div>
 
+<br>
+<br>
 <br>
 
 # Blog
